@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codewithzubair07/codewithzubair07/main/neofetch_banner.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/codewithzubair07/codewithzubair07/main/assets/robot_banner.png" width="600"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF8C00&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Zubair;Fullstack+Developer;AI+%2B+Agent+Builder" alt="Typing SVG" />
 </div>
 
 <br>
